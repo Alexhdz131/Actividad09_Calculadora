@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="number1">Número 1</string>
+    <string name="number2">Número 2</string>
+    <string name="result">Result</string>
+    <string name="add">Suma</string>
+    <string name="rest">Resta</string>
+    <string name="multiplication">Multiplicación</string>
+    <string name="division">Division</string>
+    <string name="module">Módulo</string>
+    <string name="init">0.0</string>
+    <string name="init_value">0.0</string>
+    <string name="Modulo">%</string>
+    <string name="Division">/</string>
+    <string name="numero2">Número 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="numero1">Número 1</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multiplicacion">*</string>
+</resources>
